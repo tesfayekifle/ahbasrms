@@ -38,7 +38,11 @@ CREATE TABLE `admin_login` (
 --
 
 INSERT INTO `admin_login` (`userid`, `password`) VALUES
+<<<<<<< HEAD
 ('Tesfaye', '@te8152ye#');
+=======
+('admin', '123');
+>>>>>>> 59255342e6a7b28e47edc6188d55dd355ad7aaf7
 
 -- --------------------------------------------------------
 
@@ -133,4 +137,8 @@ COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+<<<<<<< HEAD
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+=======
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
+>>>>>>> 59255342e6a7b28e47edc6188d55dd355ad7aaf7

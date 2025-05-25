@@ -42,7 +42,11 @@
                         echo'</select>'
                     ?>
 
+<<<<<<< HEAD
                     <input type="text" name="rn" placeholder="Pasword">
+=======
+                    <input type="text" name="rn" placeholder="Roll No">
+>>>>>>> 59255342e6a7b28e47edc6188d55dd355ad7aaf7
                     <input type="submit" value="Get Result">
                 </fieldset>
             </form>
